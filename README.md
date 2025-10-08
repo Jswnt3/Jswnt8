@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jaswanth Mudapaka</h1>
 <h3 align="center">A passionate Cloud & Full Stack Developer from India ☁️💻</h3>
