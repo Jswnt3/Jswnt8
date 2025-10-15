@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jaswanth Mudapaka</h1>
-<h3 align="center">A passionate Cloud & Full Stack Developer from India ☁️💻</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="coding" width="420" src="">
 
