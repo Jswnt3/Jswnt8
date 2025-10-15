@@ -92,9 +92,6 @@ _Sri Chaitanya Technical Campus_ — *CGPA: 6.9 | Graduated: Nov 2023*
 </a>
 </p>
 
-📫 **Reach me at:**  
-**jaswanthmudapaka888@gmail.com** | **+91 6301247723**
-
 ---
 
 ### 🧩 GitHub Stats
