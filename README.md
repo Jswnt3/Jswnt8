@@ -55,7 +55,7 @@
 Python • Java • SQL • Spring Boot • Angular • HTML • CSS • JavaScript  
 
 **Cloud & DevOps:**  
-AWS (VPC, EC2, S3, Beanstalk) • Docker • GitHub • Linux (CentOS)  
+AWS (VPC, EC2, S3, Beanstalk) • Docker • Git • GitHub • Linux (CentOS)  
 
 **Tools & Analytics:**  
 PowerBI • Jupyter Notebook • VS Code • LaTeX  
