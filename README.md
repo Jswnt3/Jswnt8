@@ -1,104 +1,21 @@
+# 💫 About Me:
+🔭 I’m currently working on: Gen-AI chatbots, ML-driven applications, and cloud-based AI projects using Python and LLM frameworks.<br>👯 I’m looking to collaborate on: AI/ML projects, NLP applications, Gen-AI tools, and open-source ML initiatives.<br>🤝 I’m looking for help with: Advanced ML algorithms, model optimization, MLOps, and scalable AI deployment.<br>🌱 I’m currently learning: Machine Learning, Deep Learning, NLP, LLM workflows, and AWS for AI systems<br>💬 Ask me about: Python, Gen-AI chatbots, APIs, cloud services, testing AI systems, and prompt engineering.<br>⚡ Fun fact: I enjoy turning complex AI concepts into simple, human-friendly solutions.
 
-<h1 align="center">Hi 👋, I'm Jaswanth Mudapaka</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="420" src="">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaswanth-mudapaka/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthmudapaka888@gmail.com) 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Jswnt8&label=Profile%20views&color=0e75b6&style=flat" alt="Jswnt8" /> 
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jswnt3&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jswnt3&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jswnt3&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jswnt8" alt="Jswnt8" />
-  </a> 
-</p>
-
----
-
-# 💫 About Me: 🔭 I’m currently working on: Gen-AI chatbots, ML-driven applications, and cloud-based AI projects using Python and LLM frameworks.<br>👯 I’m looking to collaborate on: AI/ML projects, NLP applications, Gen-AI tools, and open-source ML initiatives.<br>🤝 I’m looking for help with: Advanced ML algorithms, model optimization, MLOps, and scalable AI deployment.<br>🌱 I’m currently learning: Machine Learning, Deep Learning, NLP, LLM workflows, and AWS for AI systems<br>💬 Ask me about: Python, Gen-AI chatbots, APIs, cloud services, testing AI systems, and prompt engineering.<br>⚡ Fun fact: I enjoy turning complex AI concepts into simple, human-friendly solutions.
-
-### 🧠 Experience
-
-- **AWS APAC Solutions Architecture Virtual Program (Forage)** – *Feb 2025*  
-  Designed a scalable **Elastic Beanstalk** architecture improving client response times by **40%** and optimizing costs by **25%** through efficient AWS deployment.  
-
-- **Magic Bus India Foundation** – *Aug 2024 – Nov 2024*  
-  - Mastered AWS core services, reducing downtime by **90%** and improving cost efficiency by **85%** through automation.  
-  - Built a **Generative AI Chatbot** using **Amazon Bedrock + LangChain**, accelerating response times by **50%**.  
-  - Mentored juniors, fostering collaboration and technical growth.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jswnt3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Jswnt3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects
-
-- 🧩 **[Flux: Data Analysis System](https://github.com/Jswnt8/Flux-Data-Analysis-System-.git)**  
-  Python-based data ingestion and visualization system using **Plotly** for interactive analysis, enabling faster insights with robust error handling.  
-
-- 🧠 **[Face Mask Detection using YOLOv5](https://github.com/Jswnt8/Face-mask-detection-using-YoloV5.git)**  
-  Real-time mask detection with **TensorFlow & OpenCV**, achieving top accuracy across 682 images.  
-
-- 🌾 **[Crop Recommendation System](https://github.com/Jswnt8/Intelligent-crop-recommended-system.git)**  
-  Machine learning model using **Random Forest & Neural Networks**, achieving **95% accuracy** in predicting sustainable crops.  
-
----
-
-### 🛠️ Skills & Tools
-
-**Languages & Frameworks:**  
-Python • Java • SQL • Spring Boot • Angular • HTML • CSS • JavaScript  
-
-**Cloud & DevOps:**  
-AWS (VPC, EC2, S3, Beanstalk) • Docker • Git • GitHub • Linux (CentOS)  
-
-**Tools & Analytics:**  
-PowerBI • Jupyter Notebook • VS Code • LaTeX  
-
-**Soft Skills:**  
-Problem Solving • Adaptability • Communication • Teamwork • Leadership  
-
----
-
-### 🧾 Certifications
-
-- 🏆 AWS Certified Cloud Practitioner — *Nov 2024*  
-- 🧩 Generative AI Essentials (Microsoft & LinkedIn) — *Sep 2024*  
-- 🧠 Troubleshooting & Debugging Techniques (Google) — *Apr 2025*  
-- 💻 Python & DSA – Frontlines EdTech — *Mar 2023*
-
----
-
-### 🎓 Education
-
-**Bachelor of Computer Science and Engineering**  
-_Sri Chaitanya Technical Campus_ — *CGPA: 6.9 | Graduated: Nov 2023*  
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/jaswanth-mudapaka" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswanth-mudapaka" height="30" width="40" />
-</a>
-<a href="mailto:jaswanthmudapaka888@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🧩 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jswnt8&show_icons=true&locale=en&layout=compact" alt="Jswnt8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jswnt8&show_icons=true&locale=en" alt="Jswnt8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jswnt8&" alt="Jswnt8" /></p>
-
----
-
-### 🎵 Fun Fact
-**I debug best while listening to lo-fi beats 🎧**
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
