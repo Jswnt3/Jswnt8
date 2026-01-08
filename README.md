@@ -16,13 +16,7 @@
 
 ---
 
-### 💼 Executive Summary
-
-- 🚀 Dynamic fresher with hands-on internship experience, adept at designing, developing, and deploying software applications using **Java, Python, AWS, and modern web technologies**.  
-- 💡 Skilled in leveraging cloud and AI tools to enhance operational efficiency and deliver scalable solutions.  
-- 🌱 Passionate about **cloud architecture, AI/ML integration**, and contributing innovative solutions to the tech industry.  
-
----
+# 💫 About Me: 🔭 I’m currently working on: Gen-AI chatbots, ML-driven applications, and cloud-based AI projects using Python and LLM frameworks.<br>👯 I’m looking to collaborate on: AI/ML projects, NLP applications, Gen-AI tools, and open-source ML initiatives.<br>🤝 I’m looking for help with: Advanced ML algorithms, model optimization, MLOps, and scalable AI deployment.<br>🌱 I’m currently learning: Machine Learning, Deep Learning, NLP, LLM workflows, and AWS for AI systems<br>💬 Ask me about: Python, Gen-AI chatbots, APIs, cloud services, testing AI systems, and prompt engineering.<br>⚡ Fun fact: I enjoy turning complex AI concepts into simple, human-friendly solutions.
 
 ### 🧠 Experience
 
