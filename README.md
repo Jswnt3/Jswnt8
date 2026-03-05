@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jaswanth%20Mudapaka&fontSize=50&fontColor=fff&fontAlignY=36&desc=Software%20Developer%20%7C%20Cloud%20%26%20AI%20Engineer&descAlignY=56&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Jaswanth%20Mudapaka&fontSize=70&color=0:FF9500,100:FF3CAC&stroke=FF9500&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20%26%20AI%20Engineer&descSize=20&animation=twinkling&fontColor=ffffff&descAlignY=70)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF9500&center=true&vCenter=true&width=620&lines=Software+Developer+%F0%9F%92%BB;Cloud+%26+AI+Engineer+%E2%98%81%EF%B8%8F;LangChain+%2B+AWS+Builder+%F0%9F%A4%96;QA+Automation+Specialist+%E2%9C%85;Open+to+New+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
